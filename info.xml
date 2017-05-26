@@ -1,0 +1,19 @@
+<plugin name="Detect Puffs">
+    <directory>
+        tnt_analyzer
+    </directory>
+	<version>
+		2017.05.25
+	</version>
+	<author>
+		Kyle Ellefsen
+	</author>
+	<url>
+		https://github.com/kyleellefsen/tnt_analyzer/archive/master.zip
+	</url>
+	<dependencies>
+		<dependency name='skimage'></dependency>
+	</dependencies>
+	<menu_layout>
+	</menu_layout>
+</plugin>
