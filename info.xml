@@ -1,4 +1,4 @@
-<plugin name="Detect Puffs">
+<plugin name="TNT Analyzer">
     <directory>
         tnt_analyzer
     </directory>
